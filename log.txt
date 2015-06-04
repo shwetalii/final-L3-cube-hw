@@ -1,0 +1,9 @@
+1)write a simple code to read each line from the log file, tokenise it and display 
+the information in tabular format in proper columns.
+example:
+(IP adress/host id)|(date)|(time)|(+-time zone)|(request type)|(requested resourse)| (http version)
+2)store the data from a log file into a database like mysql(relational) or mongodb(non-relational),then we can access that data (i.e. even present it) using sql/mongo db shell commands.
+3) we can also draw graphs i.e. bargraph,pie chart,etc to analyse the data like number of requests
+recived during different time slots, on different days, also the no of different types of requests,
+,etc.
+
